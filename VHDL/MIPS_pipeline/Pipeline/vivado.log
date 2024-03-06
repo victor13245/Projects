@@ -1,0 +1,50 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed Mar 06 22:53:51 2024
+# Process ID: 12184
+# Current directory: E:/proiecte/VHDL/MIPS_pipeline/Pipeline
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12556 E:\proiecte\VHDL\MIPS_pipeline\Pipeline\Pipeline.xpr
+# Log file: E:/proiecte/VHDL/MIPS_pipeline/Pipeline/vivado.log
+# Journal file: E:/proiecte/VHDL/MIPS_pipeline/Pipeline\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/proiecte/VHDL/MIPS_pipeline/Pipeline/Pipeline.xpr
+INFO: [Project 1-313] Project file moved from 'E:/faculta/an2 sem 2/AF/MIPS_pipeline/Pipeline' since last save.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/MEM.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/MEM.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/MPG.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/MPG.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/ExecutionUnit.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/ExecutionUnit.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/IDecode.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/IDecode.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/IFetch.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/IFetch.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/MainControl.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/MainControl.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/SSD.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/SSD.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/lab7_4.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/lab7_4.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/test_env2/test_env.srcs/constrs_1/new/constraints.xdc'; using path 'E:/faculta/an2 sem 2/AF/test_env2/test_env.srcs/constrs_1/new/constraints.xdc' instead.
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/MEM.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/MEM.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/MPG.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/MPG.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/ExecutionUnit.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/ExecutionUnit.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/IDecode.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/IDecode.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/IFetch.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/IFetch.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/MainControl.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/MainControl.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/SSD.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/SSD.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/lab7_4.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/lab7_4.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/test_env2/test_env.srcs/constrs_1/new/constraints.xdc'; using path 'E:/faculta/an2 sem 2/AF/test_env2/test_env.srcs/constrs_1/new/constraints.xdc' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/MEM.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/MEM.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/MPG.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/MPG.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/ExecutionUnit.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/ExecutionUnit.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/IDecode.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/IDecode.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/IFetch.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/IFetch.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/MainControl.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/MainControl.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/SSD.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/SSD.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/MIPS_pipeline_material/mips16/lab7_4.vhd'; using path 'E:/faculta/an2 sem 2/AF/MIPS_pipeline_material/mips16/lab7_4.vhd' instead.
+WARNING: [Project 1-312] File not found as 'E:/proiecte/VHDL/test_env2/test_env.srcs/constrs_1/new/constraints.xdc'; using path 'E:/faculta/an2 sem 2/AF/test_env2/test_env.srcs/constrs_1/new/constraints.xdc' instead.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/faculta/Xillinx/Vivado/2016.4/data/ip'.
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Mar 06 22:59:41 2024...
