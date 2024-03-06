@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed Mar 06 22:53:51 2024
+# Process ID: 12184
+# Current directory: E:/proiecte/VHDL/MIPS_pipeline/Pipeline
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12556 E:\proiecte\VHDL\MIPS_pipeline\Pipeline\Pipeline.xpr
+# Log file: E:/proiecte/VHDL/MIPS_pipeline/Pipeline/vivado.log
+# Journal file: E:/proiecte/VHDL/MIPS_pipeline/Pipeline\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/proiecte/VHDL/MIPS_pipeline/Pipeline/Pipeline.xpr
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
