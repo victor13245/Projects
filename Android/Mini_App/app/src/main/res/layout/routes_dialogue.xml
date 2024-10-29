@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/textViewOptions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Options"
+        android:textSize="20sp"
+        android:layout_marginBottom="16dp"
+        />
+
+    <CheckBox
+        android:id="@+id/checkboxFavourites"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginBottom="20dp"
+        android:text="Only Favourites" />
+
+
+    <CheckBox
+        android:id="@+id/checkboxDestination"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="Closer to destination"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/buttonRoutes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Get Route" />
+
+    <Button
+        android:id="@+id/buttonLastRoute"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Get last destination" />
+
+</LinearLayout>

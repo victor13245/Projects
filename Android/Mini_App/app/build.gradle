@@ -1,0 +1,75 @@
+plugins {
+    alias(libs.plugins.android.application)
+    alias(libs.plugins.google.android.libraries.mapsplatform.secrets.gradle.plugin)
+    alias(libs.plugins.google.gms.google.services)
+}
+
+android {
+    namespace 'com.example.mini_app'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.example.mini_app"
+        minSdk 29
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    buildFeatures {
+        viewBinding true
+    }
+}
+
+dependencies {
+
+    implementation libs.appcompat
+    implementation libs.material
+    implementation libs.activity
+    implementation libs.constraintlayout
+    implementation libs.play.services.maps
+    implementation libs.navigation.fragment
+    implementation libs.navigation.ui
+
+    implementation libs.play.services.location
+    implementation group: 'com.google.maps', name: 'google-maps-services', version: '2.2.0'
+    implementation libs.firebase.database
+
+    testImplementation libs.junit
+    androidTestImplementation libs.ext.junit
+    androidTestImplementation libs.espresso.core
+
+    //splashscreen API
+    implementation libs.core.splashscreen
+
+    //BT
+    implementation libs.rxandroid
+    implementation libs.rxjava
+
+    //Places
+    implementation libs.places
+
+    //implementation libs.org.jetbrains.kotlin.android.gradle.plugin
+
+    implementation libs.firebase.auth.ktx
+    implementation libs.play.services.auth
+    implementation libs.credentials
+
+    /*implementation libs.lifecycle.viewmodel.compose
+    implementation libs.lifecycle.runtime.compose
+    implementation libs.navigation.compose
+    implementation libs.coil.compose*/
+
+}

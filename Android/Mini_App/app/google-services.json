@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439651045499",
+    "firebase_url": "https://parkingspotmanager-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "parkingspotmanager",
+    "storage_bucket": "parkingspotmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439651045499:android:bb0869cc7806e2fdb0d2de",
+        "android_client_info": {
+          "package_name": "com.example.mini_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439651045499-gmf36m5e33lkm1nane6hftkf1878ao5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mini_app",
+            "certificate_hash": "042b40e0aebff172d4701fb327b4dd0707d1cab7"
+          }
+        },
+        {
+          "client_id": "439651045499-kn6i9iutu39ass6n455k33n6lsulvj6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv1TsJjX9lKm2LYbb9B4-T2-vRQKiXLkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439651045499-kn6i9iutu39ass6n455k33n6lsulvj6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
