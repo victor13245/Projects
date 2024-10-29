@@ -1,0 +1,249 @@
+1: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+2: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+3: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+4: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+5: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+6: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+7: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+8: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+9: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+10: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+11: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+12: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+13: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+14: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+15: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+16: 
+Waiting clients: (2, 17, 3) (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+17: 
+Waiting clients: (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: (2, 17, 3) 
+Casa2: 
+18: 
+Waiting clients: (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: (2, 17, 3) 
+Casa2: 
+19: 
+Waiting clients: (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: (2, 17, 3) 
+Casa2: 
+20: 
+Waiting clients: (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+21: 
+Waiting clients: (4, 22, 4) (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+22: 
+Waiting clients: (1, 30, 4) (3, 30, 2) 
+Casa1: (4, 22, 4) 
+Casa2: 
+23: 
+Waiting clients: (1, 30, 4) (3, 30, 2) 
+Casa1: (4, 22, 4) 
+Casa2: 
+24: 
+Waiting clients: (1, 30, 4) (3, 30, 2) 
+Casa1: (4, 22, 4) 
+Casa2: 
+25: 
+Waiting clients: (1, 30, 4) (3, 30, 2) 
+Casa1: (4, 22, 4) 
+Casa2: 
+26: 
+Waiting clients: (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+27: 
+Waiting clients: (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+28: 
+Waiting clients: (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+29: 
+Waiting clients: (1, 30, 4) (3, 30, 2) 
+Casa1: 
+Casa2: 
+30: 
+Waiting clients: 
+Casa1: (1, 30, 4) 
+Casa2: (3, 30, 2) 
+31: 
+Waiting clients: 
+Casa1: (1, 30, 4) 
+Casa2: (3, 30, 2) 
+32: 
+Waiting clients: 
+Casa1: (1, 30, 4) 
+Casa2: 
+33: 
+Waiting clients: 
+Casa1: (1, 30, 4) 
+Casa2: 
+34: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+35: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+36: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+37: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+38: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+39: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+40: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+41: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+42: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+43: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+44: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+45: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+46: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+47: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+48: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+49: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+50: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+51: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+52: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+53: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+54: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+55: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+56: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+57: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+58: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+59: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+60: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+60: 
+Waiting clients: 
+Casa1: 
+Casa2: 
+
+
+Peak hour: 30
+Average service:  3.25
+Average waiting time:  2.125
